@@ -1,0 +1,14 @@
+{
+  "name": "projects-dot-lincolnmullen-dot-com",
+  "bugs": {
+    "url": "https://github.com/lmullen/projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmullen/projects.git"
+  },
+  "author": "",
+  "dependencies": {
+    "wrangler": "^4.64.0"
+  }
+}
