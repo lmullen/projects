@@ -2,7 +2,7 @@
 	"name": "projects-dot-lincolnmullen-dot-com",
 	"compatibility_date": "2026-02-11",
 	"assets": {
-		"directory": "./"
+		"directory": "./public"
 	}
 }
 
