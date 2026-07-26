@@ -9,6 +9,6 @@
   },
   "author": "",
   "dependencies": {
-    "wrangler": "^4.64.0"
+    "wrangler": "^4.114.0"
   }
 }
